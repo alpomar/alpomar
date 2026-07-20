@@ -1,9 +1,9 @@
 # Filipe Albero Pomar
 
-Engineering Manager at Maersk, previously HP and Sky. I work mostly in Java
-and Python, and this profile collects personal projects and experiments in
-AI, data scraping and automation.
+**Perpetually under construction.** 🚧
 
-Most of what is here is exploratory rather than finished. If you would like
-to talk about any of it, I am on [
-LinkedIn](https://www.linkedin.com/in/filipe-albero-pomar).
+Engineering Manager at Maersk, previously HP and Sky. I work mostly in Java
+and Python, and this corner of the internet holds personal projects and
+experiments in AI, data scraping and automation. Some of them even finish.
+
+Say hello on [LinkedIn](https://www.linkedin.com/in/filipe-albero-pomar).
