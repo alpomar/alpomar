@@ -2,6 +2,8 @@
 
 **Perpetually under construction.** 🚧
 
-Engineering Manager at Maersk, previously HP and Sky. I work mostly in Java and Python, and this corner of the internet holds personal projects and experiments in AI, data scraping and automation. Most of them started as a question I wanted to answer.
+Engineering Manager. I spend my working days growing engineers' careers, helping product teams sharpen what they are asking for, and getting things delivered.
+
+This corner of the internet holds what I build in Java and Python when I am not doing that. Projects and experiments in AI, automation, and pulling apart public data to see what it says, each one started with a problem I wanted to solve.
 
 Say hello on [LinkedIn](https://www.linkedin.com/in/filipe-albero-pomar).
