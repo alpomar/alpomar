@@ -4,4 +4,4 @@ Engineering Manager. I spend my days coaching engineers, sharpening what product
 
 This corner of the internet holds what I build in Java and Python when I am not doing that. Projects and experiments in AI, automation, and pulling apart public data to see what it says, each one started with a problem I wanted to solve.
 
-Say hello on [LinkedIn](https://www.linkedin.com/in/filipe-albero-pomar).
+More about me (an my digital twin) at [alpomar.dev](https://alpomar.dev). Or say hello on [LinkedIn](https://www.linkedin.com/in/filipe-albero-pomar).
