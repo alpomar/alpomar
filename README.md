@@ -1,6 +1,6 @@
 # Filipe Albero Pomar
 
-**Engineering Manager by day. Still writing code by night, mostly badly, mostly on purpose.**
+**Engineering Manager by day. Still writing code by night, some badly, mostly on purpose.**
 
 Based in London, I spend my days coaching engineers, sharpening what product teams ask for, and getting things delivered.
 
